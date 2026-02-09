@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Jeremiah%20Sagal&fontSize=80&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://i.pinimg.com/1200x/7b/24/bf/7b24bfef0051d79f9eabcb65ec62272d.jpg" width="100%" style="border-radius: 10px;"/>
 </div>
+
+<h1 align="center">Jeremiah Sagal</h1>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
@@ -39,5 +41,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
+  <img src="https://i.pinimg.com/1200x/7b/24/bf/7b24bfef0051d79f9eabcb65ec62272d.jpg" width="100%" style="border-radius: 10px; transform: rotate(180deg);"/>
 </div>
