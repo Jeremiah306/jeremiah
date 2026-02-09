@@ -29,16 +29,16 @@
 
 ---
 
+---
+
 <h3 align="center">📊 Coding Activity</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeremiah306&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremiah306&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeremiah306&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremiah306&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jeremiah306&theme=onestar&no-frame=true&column=4" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
-</div>
+---
