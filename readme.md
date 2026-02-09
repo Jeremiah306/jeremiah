@@ -8,12 +8,6 @@
   </a>
 </h3>
 
-<div align="center">
-  <a href="https://www.facebook.com/share/1C1MZ7Hfxg/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-</div>
-
 <br/>
 
 <div align="center">
@@ -29,15 +23,20 @@
 
 ---
 
-<h3 align="center">📊 Coding Activity</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeremiah306&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremiah306&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeremiah306&theme=onestar&no-frame=true&column=4" />
-</div>
+<h3 align="center">🤝 Connect with me</h3>
+<p align="center">
+  <a href="mailto:sagaljeremy701@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/share/1C1MZ7Hfxg/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Jeremiah306/jeremiah">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
