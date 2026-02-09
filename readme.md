@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jeremiah306/Jeremiah306/output/github-snake-dark.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/Jeremiah306/jeremiah/output/github-snake-dark.svg" alt="Snake" />
 </div>
 
 <br/>
